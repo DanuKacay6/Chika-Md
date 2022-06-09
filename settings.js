@@ -36,7 +36,7 @@ global.footer = 'Kacay' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCvTk1eDfJAZZVA-f1A5ICKw'
 global.ig = 'https://instagram.com/Teamkacat'
 global.mygc = 'https://chat.whatsapp.com/HdinO9Dtyur0yPC0LcUQAl'
-global.myweb = 'https://xxnx.com'
+global.myweb = 'https://Riy.com'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
